@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.718">
+    <testcase classname="Login feature" name="Invalid username does not allow to login" time="16.571">
+        <system-out>
+            <![CDATA[Given agent is on loginpage.................................................passed
+When agent enters invalid username..........................................passed
+And agent enters password...................................................passed
+And click on Login button...................................................passed
+Then check agent is logged in...............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
